@@ -29,3 +29,5 @@
 <br>
 <img src="https://raw.githubusercontent.com/dat999zx/dat999zx/output/contributions.svg" width="100%" alt="Terminal with an orange snake eating dat999zx's GitHub contribution graph.">
 </details>
+
+☕ <a href="https://buymeacoffee.com/dat999zx"><code>❯ /coffee</code></a>&nbsp; buy me a coffee
